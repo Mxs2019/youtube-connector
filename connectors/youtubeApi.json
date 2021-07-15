@@ -2,7 +2,7 @@
   "$id": "youtube_connector",
   "$schema": "https://schema.yext.com/config/km/connector/v1",
   "displayName": "YouTube API Connector",
-  "entityType": "ce_Video",
+  "entityType": "youtube_video",
   "source": {
     "sourceConfig": {
       "apiPullConfig": {
